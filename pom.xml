@@ -3,4 +3,11 @@
   <groupId>ch.bfh.ti.laborlight</groupId>
   <artifactId>ch.bfh.ti.laborlight</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	<dependency>
+	    <groupId>ch.quantasy</groupId>
+	    <artifactId>ch.quantasy.tinkerforge.tinker</artifactId>
+	    <version>1.0-SNAPSHOT</version>
+	</dependency>
+  </dependencies>
 </project>

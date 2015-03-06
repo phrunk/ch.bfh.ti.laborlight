@@ -18,9 +18,7 @@ public class SensorTest extends AbstractTinkerforgeApplication implements
 
 	private BrickletAmbientLight ambientLightBricklet;
 
-	public SensorTest() {
-		
-	}
+	public SensorTest() {}
 	
 	@Override
 	public void deviceConnected(TinkerforgeStackAgent tinkerforgeStackAgent,
